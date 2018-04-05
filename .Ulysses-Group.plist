@@ -6,24 +6,28 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>Books.md</key>
+			<key>BOOKS.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>544581247.32778394</real>
 				<key>lastModification</key>
-				<real>544581087.51280606</real>
+				<real>544581247.32778394</real>
 				<key>version</key>
 				<dict>
 					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
-					<integer>17</integer>
+					<integer>25</integer>
 				</dict>
 			</dict>
 			<key>README.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>544580383.07879102</real>
+				<real>544581259.07969201</real>
 				<key>version</key>
 				<dict>
 					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
-					<integer>2</integer>
+					<integer>27</integer>
 				</dict>
 			</dict>
 			<key>SUMMARY.md</key>
@@ -62,12 +66,16 @@
 			</dict>
 			<key>page-1.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>544581392.46099496</real>
 				<key>lastModification</key>
-				<real>544580955.38607895</real>
+				<real>544581392.46099496</real>
 				<key>version</key>
 				<dict>
 					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
-					<integer>12</integer>
+					<integer>28</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -81,16 +89,16 @@
 			<string>SUMMARY.md</string>
 		</array>
 		<array>
-			<string>Books.md</string>
+			<string>BOOKS.md</string>
 		</array>
 		<array>
 			<string>design.md</string>
 		</array>
 		<array>
-			<string>README.md</string>
+			<string>page-1.md</string>
 		</array>
 		<array>
-			<string>page-1.md</string>
+			<string>README.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -100,7 +108,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
-			<integer>18</integer>
+			<integer>28</integer>
 		</dict>
 	</dict>
 </dict>
