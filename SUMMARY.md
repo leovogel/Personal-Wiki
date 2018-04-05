@@ -1,5 +1,9 @@
 # Table of contents
 
-* [Home](README.md)
-* [Page 1](page-1.md)
+* [Home][1]
+* [Page 1][2]
+* [Testing][3]
 
+[1]:	README.md
+[2]:	page-1.md
+[3]:	testing.md

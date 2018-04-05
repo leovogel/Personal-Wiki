@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>README.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544580383.07879102</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>This is a test.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>544580440.37681305</real>
+				<key>lastModification</key>
+				<real>544580440.37681305</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
+			<key>testing.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544580802.07348204</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>10</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>This is a test.md</string>
+		</array>
+		<array>
+			<string>testing.md</string>
+		</array>
+		<array>
+			<string>README.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+			<integer>10</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

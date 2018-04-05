@@ -4,5 +4,5 @@ description: Home Page
 
 # Home
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hey, I know it's been a while, but do you happen to know our office WiFi password? I like the banner but you need to change the font to something that makes me smile. Obviously, this one is not making me smile. In fact, it's upsetting me. Can you please rename this file as [filename]()? Thanks! Then send it back to me so I can send it off. Looks good, but... If you could work in some subtle opacity and/or glass Apple-style buttons in the design it would be great. For some reason I just have a warm fuzzy feeling about both those things. Let's get a QR code of our website and add it on our website.
 
