@@ -6,4 +6,4 @@
 
 [1]:	README.md
 [2]:	page-1.md
-[3]:	testing.md
+[3]:	design.md

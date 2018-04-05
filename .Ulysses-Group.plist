@@ -6,6 +6,16 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
+			<key>Books.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544581087.51280606</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>17</integer>
+				</dict>
+			</dict>
 			<key>README.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -14,6 +24,16 @@
 				<dict>
 					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
 					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>SUMMARY.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544580955.38607705</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>12</integer>
 				</dict>
 			</dict>
 			<key>This is a test.md</key>
@@ -30,14 +50,24 @@
 					<integer>9</integer>
 				</dict>
 			</dict>
-			<key>testing.md</key>
+			<key>design.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>544580802.07348204</real>
+				<real>544581014.23893404</real>
 				<key>version</key>
 				<dict>
 					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
-					<integer>10</integer>
+					<integer>13</integer>
+				</dict>
+			</dict>
+			<key>page-1.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544580955.38607895</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>12</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -48,10 +78,19 @@
 			<string>This is a test.md</string>
 		</array>
 		<array>
-			<string>testing.md</string>
+			<string>SUMMARY.md</string>
+		</array>
+		<array>
+			<string>Books.md</string>
+		</array>
+		<array>
+			<string>design.md</string>
 		</array>
 		<array>
 			<string>README.md</string>
+		</array>
+		<array>
+			<string>page-1.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -61,7 +100,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
-			<integer>10</integer>
+			<integer>18</integer>
 		</dict>
 	</dict>
 </dict>
