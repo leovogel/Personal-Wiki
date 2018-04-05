@@ -2,8 +2,36 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>childOrder</key>
+	<array>
+		<string>Books</string>
+		<string>Design</string>
+	</array>
 	<key>resolutionData</key>
 	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>Books</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544582177.52734601</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>Design</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544582051.92776096</real>
+				<key>version</key>
+				<dict>
+					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>BOOKS.md</key>
@@ -56,12 +84,16 @@
 			</dict>
 			<key>design.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>544582153.81069398</real>
 				<key>lastModification</key>
-				<real>544581014.23893404</real>
+				<real>544582153.81069398</real>
 				<key>version</key>
 				<dict>
 					<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
-					<integer>13</integer>
+					<integer>33</integer>
 				</dict>
 			</dict>
 			<key>page-1.md</key>
@@ -105,10 +137,15 @@
 	<integer>1</integer>
 	<key>versioning</key>
 	<dict>
+		<key>childOrder</key>
+		<dict>
+			<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
+			<integer>6</integer>
+		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>ce3e02c314a16f0fddfaf6f43590ffab313e1ef237314c7681862ed997309262</key>
-			<integer>28</integer>
+			<integer>33</integer>
 		</dict>
 	</dict>
 </dict>
