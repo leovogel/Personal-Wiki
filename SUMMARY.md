@@ -30,6 +30,8 @@
 * [Technology][16]
 * [Other][17]
 
+* Quotes
+
 [1]:	README.md
 [2]:	home.md
 [3]:	productivity.md

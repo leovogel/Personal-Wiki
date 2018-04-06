@@ -1,15 +1,23 @@
 # Tools
 
-- [Sip][1] - Color management tool for Mac
-- [UX Power Tools][2] - Sketch design systems to jump start your project
-- [Unsplash][3] - Do-what-you-what, completely free photos
-- [DiverseUI][4] and [Nappy][5] - Stock photos of diverse people for personas and mockups
-- [Adobe Comp CC][6] or [OmniGraffle][7] - paired with an Apple Pencil, these apps make wireframing digitally a joy
+## Getting Super Powers
 
-[1]:	http://leovogel.com/links/g
-[2]:	http://leovogel.com/links/f
-[3]:	http://leovogel.com/links/e
-[4]:	http://leovogel.com/links/d
-[5]:	http://leovogel.com/links/c
-[6]:	http://leovogel.com/links/a
-[7]:	http://leovogel.com/links/b
+Becoming a super hero is a fairly straight forward process:
+
+```
+$ give me super-powers
+```
+
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
+Once you're strong enough, save the world:
+
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+
+
+
