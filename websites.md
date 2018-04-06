@@ -1,23 +1,17 @@
 # Websites
 
-## Getting Super Powers
+- [ProductHunt][1] - Discover the latest products/apps/services from the startup scene
+- [Reddit][2] - The front-page of the Internet
+- [Cool Tools][3] - Kevin Kelly, founder of WIRED magazine shares cool tools he’s come across
+- [Tools and Toys][4] - Inspiration for this page’s name
+- [Nikita Voloboev][5] - this guy is my idol if ever I had one
+- [Rocket Ink][6]
+- [Sounds Just Like][7] - Many songs are recycled
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+[1]:	http://leovogel.com/links/r
+[2]:	http://leovogel.com/links/s
+[3]:	http://kk.org/cooltools
+[4]:	http://toolsandtoys.net
+[5]:	https://wiki.nikitavoloboev.xyz
+[6]:	http://rocketink.net
+[7]:	soundsjustlike.com
