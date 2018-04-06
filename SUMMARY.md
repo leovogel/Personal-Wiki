@@ -29,4 +29,5 @@
 * [Career Resources](design/career-resources.md)
 * [Tools](design/tools.md)
 * [For Focused Work](design/for-focused-work.md)
+* Quotes
 
