@@ -5,7 +5,7 @@
 * [Productivity](productivity.md)
 * [Websites](websites.md)
 * [Travel](travel.md)
-* Knowledge/Learning/News
+* [Knowledge/Learning/News](design.md)
 * [Finances](finances.md)
 
 ## Books
