@@ -1,23 +1,10 @@
 # Other
 
-## Getting Super Powers
+- [TEC P7][1]
+- [Remove Before Flight Keychain][2]
+++- Keychain Ring++
+- [HuMn Wallet][3]
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+[1]:	https://www.tecaccessories.com/products/p-7-suspension-clip
+[2]:	https://amzn.to/2GujI0J
+[3]:	https://amzn.to/2uGpWcu

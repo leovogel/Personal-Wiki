@@ -1,23 +1,17 @@
 # Technology
 
-## Getting Super Powers
+- [iPad Pro 10.5][1]
+- [Apple Smart Keyboard][2]
+- Apple Pencil
+- [HTC Vive Virtual Reality Headset][3]
+- [QNAP NAS][4]
+- Apple Watch Series 3
+- AirPods
+- Shure Earphones
+- iPhone X
+- 2015 MacBook Pro 15″
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+[1]:	https://amzn.to/2pTTI8T
+[2]:	https://amzn.to/2Gp8e2L
+[3]:	https://amzn.to/2pTYByM
+[4]:	https://amzn.to/2Jc5C63
