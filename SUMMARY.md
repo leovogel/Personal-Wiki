@@ -2,10 +2,28 @@
 
 * [Introduction](README.md)
 * Home
-* Design
+* Productivity
+* Knowledge/Learning/News
 
 ## Books
 
 * Non-Fiction
 * Fiction
+
+## Entertainment
+
+* TV
+* Movies
+
+## Physical Tools
+
+* Technology
+* Other
+
+## Design
+
+* Books
+* Career Resources
+* Tools
+* For Focused Work
 
