@@ -1,11 +1,7 @@
 # TV
 
-- [Game of Thrones][1]
-	- [Everwood][2]
-	- [Doctor Who][3]
-	- [Mythbusters][4]
+* [Game of Thrones](https://amzn.to/2GsIChn)
+* [Everwood](https://amzn.to/2H3HpOH)
+* [Doctor Who](https://amzn.to/2H77cFX)
+* [Mythbusters](https://amzn.to/2H77uN3)
 
-[1]:	https://amzn.to/2GsIChn
-[2]:	https://amzn.to/2H3HpOH
-[3]:	https://amzn.to/2H77cFX
-[4]:	https://amzn.to/2H77uN3
