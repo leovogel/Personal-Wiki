@@ -1,17 +1,17 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Home](home-1.md)
+* [Home](home.md)
 * [Productivity](productivity.md)
 * [Websites](websites.md)
 * [Travel](travel.md)
-* [Knowledge/Learning/News](design.md)
+* [Knowledge/Learning/News](knowledge-learning-news.md)
 * [Finances](finances.md)
 
 ## Books
 
-* [Non-Fiction](books-1/books.md)
-* [Fiction](books-1/fiction.md)
+* [Non-Fiction](books/non-fiction.md)
+* [Fiction](books/fiction.md)
 
 ## Entertainment
 
@@ -25,8 +25,8 @@
 
 ## Design
 
-* [Books](design-1/books-1-1.md)
-* [Career Resources](design-1/career-resources.md)
-* [Tools](design-1/tools.md)
-* [For Focused Work](design-1/for-focused-work.md)
+* [Books](design/books.md)
+* [Career Resources](design/career-resources.md)
+* [Tools](design/tools.md)
+* [For Focused Work](design/for-focused-work.md)
 
