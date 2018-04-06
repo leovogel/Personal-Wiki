@@ -6,7 +6,5 @@
 * [Tools and Toys](http://toolsandtoys.net) - Inspiration for this page’s name
 * [Nikita Voloboev](https://wiki.nikitavoloboev.xyz) - this guy is my idol if ever I had one
 * [Rocket Ink](http://rocketink.net)
-* \[Sounds Just Like\]\[7\] - Many songs are recycled
-
-\[7\]: [http://soundsjustlike.com](http://soundsjustlike.com)
+* [Sounds Just Like](http://soundsjustlike.com) - Many songs are recycled
 

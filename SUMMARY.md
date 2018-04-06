@@ -29,5 +29,5 @@
 
 * [Technology](physical-tools/technology.md)
 * [Other](physical-tools/other-17.md)
-* Quotes
+* [Quotes](quotes.md)
 
