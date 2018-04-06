@@ -3,7 +3,9 @@
 * [Introduction](README.md)
 * Home
 * Design
-* Books
 
 ## Books
+
+* Fiction
+  * Non-Fiction
 
