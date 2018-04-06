@@ -3,7 +3,9 @@
 * [Introduction](README.md)
 * Home
 * Productivity
+* Travel
 * Knowledge/Learning/News
+* Finances
 
 ## Books
 
