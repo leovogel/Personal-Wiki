@@ -8,7 +8,8 @@
 * [Movies][6]
 * [TV][7]
 * [Games][8]
-* [Productivity][9]
+* Design
+	* [Design][9]
 
 [1]:	README.md
 [2]:	design.md
@@ -18,4 +19,4 @@
 [6]:	untitled.md
 [7]:	tv.md
 [8]:	games.md
-[9]:	productivity.md
+[9]:	design.md
