@@ -28,6 +28,6 @@
 ## Physical Tools
 
 * [Technology](physical-tools/technology.md)
-* [Other](physical-tools/other-17.md)
+* [Other](physical-tools/other.md)
 * [Quotes](quotes.md)
 
