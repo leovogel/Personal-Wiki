@@ -6,6 +6,6 @@
 
 ## Books
 
+* Non-Fiction
 * Fiction
-  * Non-Fiction
 
