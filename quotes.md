@@ -1,3 +1,1 @@
 # Quotes
-
-Page in Progress
