@@ -1,23 +1,17 @@
 # Fiction
+- [The Martian][1]
+- [Jurassic Park][2]
+- [Harry Potter][3] (my all-time favourite books)
+- [Tomorrow When the War Began][4] (my favourite Australian book series)
+- [S. by JJ Abrams][5] (a book for lovers of books and puzzles)
+- His Dark Materials
+- Artemis Fowl
+- Lord of the Rings
+- The Lost Years of Merlin
+- Ready Player One
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+[1]:	https://amzn.to/2GIxfW2
+[2]:	https://amzn.to/2IlhnGe
+[3]:	https://amzn.to/2IhtT9F
+[4]:	https://amzn.to/2GGPoDJ
+[5]:	https://amzn.to/2Io3c3g

@@ -1,23 +1,9 @@
 # Career Resources
 
-## Getting Super Powers
+- [Hired][1] - Get matched with a job you love.
+- [Designer Hangout][2] - Invite-only, professional UX design network of 10,000+ UX practitioners.
+- [Sidebar][3] - 5 Design links every day
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+[1]:	http://leovogel.com/links/i
+[2]:	http://leovogel.com/links/h
+[3]:	Sidebar.io
