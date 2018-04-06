@@ -14,4 +14,4 @@
 [4]:	http://toolsandtoys.net
 [5]:	https://wiki.nikitavoloboev.xyz
 [6]:	http://rocketink.net
-[7]:	soundsjustlike.com
+[7]:	http://soundsjustlike.com
