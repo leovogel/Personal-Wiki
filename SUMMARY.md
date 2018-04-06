@@ -1,5 +1,9 @@
 # Table of contents
 
-* [Home][1]
+* [Introduction](README.md)
+* Home
+* Design
+* Books
 
-[1]:	README.md
+## Books
+
