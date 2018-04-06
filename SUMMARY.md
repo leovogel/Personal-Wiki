@@ -1,31 +1,31 @@
 # Table of contents
 
 * [Introduction](README.md)
-* Home
-* Productivity
-* Travel
+* [Home](home-1.md)
+* [Productivity](productivity.md)
+* [Travel](travel.md)
 * Knowledge/Learning/News
-* Finances
+* [Finances](finances.md)
 
 ## Books
 
-* Non-Fiction
-* Fiction
+* [Non-Fiction](books-1/books.md)
+* [Fiction](books-1/fiction.md)
 
 ## Entertainment
 
-* TV
-* Movies
+* [TV](entertainment/tv.md)
+* [Movies](entertainment/movies.md)
 
 ## Physical Tools
 
-* Technology
-* Other
+* [Technology](physical-tools/technology.md)
+* [Other](physical-tools/other.md)
 
 ## Design
 
-* Books
-* Career Resources
-* Tools
-* For Focused Work
+* [Books](design-1/books-1-1.md)
+* [Career Resources](design-1/career-resources.md)
+* [Tools](design-1/tools.md)
+* [For Focused Work](design-1/for-focused-work.md)
 
