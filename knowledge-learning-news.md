@@ -13,8 +13,6 @@
 * [Inoreader](https://www.inoreader.com) - RSS feed service with powerful server-side filtering
 * Reabble - Kindle optimised Inoreader site
 * [Lynda](https://www.lynda.com)
-* \[NextDraft\]\[8\] - best email newsletter summary of the day’s news
+* [NextDraft](http://NextDraft.net) - best email newsletter summary of the day’s news
 * PDF Expert - best PDF reader for iPad I’ve found
-
-\[8\]: NextDraft.net
 
