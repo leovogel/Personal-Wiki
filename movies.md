@@ -1,4 +1,4 @@
-# Movies
+# Adventure / Creativity / Entertainment
 
 ## Getting Super Powers
 
