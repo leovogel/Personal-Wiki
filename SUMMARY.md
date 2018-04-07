@@ -27,5 +27,5 @@
 
 ## Education / Skill Development
 
-* [Knowledge/Learning/News](knowledge-learning-news.md)
+* [Knowledge/Learning/News](education-skill-development/knowledge-learning-news.md)
 
