@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Home](home.md)
-* [Websites](websites.md)
-* [Finances](finances.md)
 
 ## Design
 
@@ -12,6 +9,8 @@
 * [Tools](design/tools.md)
 * [For Focused Work](design/for-focused-work.md)
 * [Productivity / Planning / Organisation](productivity.md)
+* [Websites](websites.md)
+* [Finances](finances.md)
 
 ## Adventure / Creativity / Entertainment
 
