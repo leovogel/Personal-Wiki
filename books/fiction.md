@@ -24,7 +24,7 @@
 * [Getting Thing Done](https://amzn.to/2H6lruA)
 * [Free Will](https://amzn.to/2H1yOMy) by Sam Harris - Free will is an illusion
 * The Little Book of Hygge
-* \[Slide:ology\]\[10\]
+* [Slide:ology](https://amzn.to/2pVeMfd)
 * In a Sunburned Country
 * A Short History of Nearly Everything
 * How to Make Coffee
@@ -38,7 +38,5 @@
 * Essentialism
 * The Power of Less
 * How to Cook Everything
-* Red Dog    
-
-\[10\]: [https://amzn.to/2pVeMfd](https://amzn.to/2pVeMfd)
+* Red Dog
 

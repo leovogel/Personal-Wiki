@@ -4,7 +4,6 @@
 * [Home](home.md)
 * [Websites](websites.md)
 * [Finances](finances.md)
-* [Blank Page](non-fiction.md)
 
 ## Design
 
