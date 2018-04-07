@@ -4,10 +4,10 @@
 
 ## Design
 
-* [Books](design/books.md)
 * [Career Resources](design/career-resources.md)
 * [Tools](design/tools.md)
 * [For Focused Work](design/for-focused-work.md)
+* [Design \(Career / Work\)](books-1.md)
 * [Productivity / Planning / Organisation](productivity.md)
 * [Websites](websites.md)
 * [Finances](finances.md)
