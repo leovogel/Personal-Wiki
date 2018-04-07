@@ -1,23 +1,26 @@
 # Knowledge/Learning/News
 
-## Getting Super Powers
+- [Blinkist][1] - Book summaries
+- [TED][2] - inspiring talks on technology, entertainment, and design
+- Medium
+- NextDraft – Superbly curated and written weekday email newsletter on the day’s top news
+- PDF Expert – best iPad PDF reader with annotation features
+- Blinkist (key points/summaries of nonfiction books)
+- Duolingo (language learning)
+- Apollo ([Reddit][3] client)
+- [PocketCasts][4] - Best podcasts app on iOS and Android
+- [Reeder][5] - RSS feeds iOS app
+- [Inoreader][6] - RSS feed service with powerful server-side filtering
+- Reabble - Kindle optimised Inoreader site
+- [Lynda][7]
+- [NextDraft][8] - best email newsletter summary of the day’s news
+- PDF Expert - best PDF reader for iPad I’ve found
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+[1]:	http://blinki.st/89daef1176a6
+[2]:	TED.com
+[3]:	http://Reddit.com
+[4]:	https://www.shiftyjelly.com/pocketcasts/
+[5]:	http://reederapp.com/
+[6]:	https://www.inoreader.com
+[7]:	https://www.lynda.com
+[8]:	NextDraft.net

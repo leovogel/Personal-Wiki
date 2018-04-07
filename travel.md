@@ -1,23 +1,11 @@
 # Travel
 
-## Getting Super Powers
+- [Detour][1] – GPS based audio walking tours in the real world; highly recommended
+- [Amazon Prime][2] – Gives access to ebooks, 2 day shipping, TV and Movies
+- [AirBnB][3] – Rent someone’s apartment; cheaper and more personal than a hotel
+- [Lyft][4] – Taxi you can call from your phone (avoid Uber—terrible business practices)
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-
-
+[1]:	http://app.detour.com/xmrq/vThBaveiPy
+[2]:	http://leovogel.com/links/q
+[3]:	http://www.airbnb.com/c/leov52
+[4]:	http://lyft.com/iei/LEO408

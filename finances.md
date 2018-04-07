@@ -1,23 +1,12 @@
 # Finances
+- [Wealthfront][1] – Automated investment services for a fraction of the cost of traditional investment companies
+- [Robinhood][2] – Stock trading for FREE
+- [Coinbase][3] - Exchange USD to main cryptocurrencies
+- [Binance][4] - Exchange main cryptocurrencies for smaller cryptocurrencies
+- [Chase Saphire Credit Card][5] - Get $650 of travel credit for free
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
-```text
-$ give me super-powers
-```
-
-{% hint style="info" %}
-Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```text
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-
-Testing
-
+[1]:	https://wlth.fr/2ldi4qz
+[2]:	http://share.robinhood.com/leonarv3
+[3]:	https://www.coinbase.com/join/59e6b75184d42401ab858c9f
+[4]:	https://www.binance.com/?ref=12791387
+[5]:	https://www.referyourchasecard.com/6/S09R4Z7OGQ%0A
