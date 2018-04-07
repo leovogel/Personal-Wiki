@@ -2,11 +2,9 @@
 
 * [Introduction](README.md)
 * [Home](home.md)
-* [Productivity](productivity.md)
 * [Websites](websites.md)
-* [Travel](travel.md)
-* [Knowledge/Learning/News](knowledge-learning-news.md)
 * [Finances](finances.md)
+* [Blank Page](non-fiction.md)
 
 ## Design
 
@@ -14,20 +12,22 @@
 * [Career Resources](design/career-resources.md)
 * [Tools](design/tools.md)
 * [For Focused Work](design/for-focused-work.md)
+* [Productivity / Planning / Organisation](productivity.md)
 
-## Books
+## Adventure / Creativity / Entertainment
 
-* [Non-Fiction](books/non-fiction.md)
-* [Fiction](books/fiction.md)
-
-## Entertainment
-
-* [TV](entertainment/tv.md)
-* [Movies](entertainment/movies.md)
+* [Travel](books/travel.md)
+* [Books](books/fiction.md)
+* [TV](books/tv.md)
+* [Movies](books/movies.md)
 
 ## Physical Tools
 
 * [Technology](physical-tools/technology.md)
-* [Other](physical-tools/other.md)
-* [Quotes](physical-tools/quotes.md)
+* Other
+* [Quotes](quotes.md)
+
+## Education / Skill Development
+
+* [Knowledge/Learning/News](knowledge-learning-news.md)
 
