@@ -1,24 +1,24 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Design \(Career & Work\)](design-career-work.md)
-* [Values & Purpose](navigation-value-purpose.md)
-* [Well Being](emotions-well-being.md)
-* [Health & Fitness](health-fitness.md)
-* [Productivity & Organisation](productivity-planning-organisation.md)
+* [Design \(Career & Work\)](design-career-and-work.md)
+* [Values & Purpose](values-and-purpose.md)
+* [Well Being](well-being.md)
+* [Health & Fitness](health-and-fitness.md)
+* [Productivity & Organisation](productivity-and-organisation.md)
 * [Websites](websites.md)
-* [Finances](money-finances-legal.md)
-* [Adventure & Entertainment](adventure-creativity-entertainment.md)
-* [Social](social-life-relationships.md)
-* [Tools](location-tangibles.md)
-* [Education](education-skill-development.md)
+* [Finances](finances.md)
+* [Adventure & Entertainment](adventure-and-entertainment.md)
+* [Social](social.md)
+* [Tools](tools.md)
+* [Education](education.md)
 * Contribution / Impact
 * [Character / Identity](character-identity.md)
 * Quotes
 
 ## Adventure / Creativity / Entertainment
 
-* [Travel](adventure-creativity-entertainment-1/travel.md)
-* [Books](adventure-creativity-entertainment-1/books.md)
-* [TV](adventure-creativity-entertainment-1/tv.md)
+* [Travel](adventure-creativity-entertainment/travel.md)
+* [Books](adventure-creativity-entertainment/books.md)
+* [TV](adventure-creativity-entertainment/tv.md)
 
