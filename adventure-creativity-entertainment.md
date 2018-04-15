@@ -1,4 +1,4 @@
-# Adventure / Creativity / Entertainment
+# Adventure & Entertainment
 
 ## Getting Super Powers
 

@@ -1,4 +1,4 @@
-# Money / Finances / Legal
+# Finances
 
 * [Wealthfront](https://wlth.fr/2ldi4qz) – Automated investment services for a fraction of the cost of traditional investment companies
 * [Robinhood](http://share.robinhood.com/leonarv3) – Stock trading for FREE

@@ -1,4 +1,4 @@
-# Design \(Career / Work\)
+# Design \(Career & Work\)
 
 ## Books
 

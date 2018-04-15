@@ -1,4 +1,4 @@
-# Education / Skill Development
+# Education
 
 * [Blinkist](http://blinki.st/89daef1176a6) - Book summaries
 * [TED](https://github.com/leovogel/Personal-Wiki/tree/eb976237c89f7a734d342a3a182c78d188982eb4/TED.com) - inspiring talks on technology, entertainment, and design

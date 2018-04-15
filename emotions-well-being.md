@@ -1,4 +1,4 @@
-# Emotions / Well Being
+# Well Being
 
 * [Sip](http://leovogel.com/links/g) - Color management tool for Mac
 * [UX Power Tools](http://leovogel.com/links/f) - Sketch design systems to jump start your project

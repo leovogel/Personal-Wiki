@@ -1,4 +1,4 @@
-# Navigation / Value / Purpose
+# Values & Purpose
 
 Page content to come
 

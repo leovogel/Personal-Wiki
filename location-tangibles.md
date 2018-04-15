@@ -1,4 +1,4 @@
-# Location / Tangibles
+# Tools
 
 * [iPad Pro 10.5](https://amzn.to/2pTTI8T)
 * [Apple Smart Keyboard](https://amzn.to/2Gp8e2L)
