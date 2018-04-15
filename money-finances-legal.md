@@ -1,4 +1,6 @@
-# Money
+
+# Finances
+> > > > > > > 1e8a7550ed80334fc38969b7f833609663558bda:money-finances-legal.md
 
 * [Wealthfront][1] – Automated investment services for a fraction of the cost of traditional investment companies
 * [Robinhood][2] – Stock trading for FREE
