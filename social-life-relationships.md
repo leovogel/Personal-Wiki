@@ -1,4 +1,3 @@
-# Social Life / Relationships
+# Social
 
 Page content to come
-
